@@ -15,7 +15,7 @@ Formação
 
 <i class="fa fa-graduation-cap fa-lg"></i>
 <i class="fa fa-building-lg"></i> 
-<i class="fa fa-calendar"></i> 
+<i class="fa fa-calendar-lg"></i> 
 
 <i class="ai ai-lattes"></i> 
 
