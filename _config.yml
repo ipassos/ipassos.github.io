@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  - {icon: 'lattes', link: 'https://www.researchgate.net/profile/profileName'}
+  <i class="ai ai-lattes"></i> 
 
 
 # Reading Files
