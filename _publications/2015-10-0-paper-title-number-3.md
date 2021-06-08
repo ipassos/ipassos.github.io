@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number é3"
+title: "Perfil dos manifestantes pró e contra o impeachment em Porto Alegre e as TICs uma análise quantitativa"
 collection: publications
 permalink: /publication/2015-10-0-paper-title-number-3
 excerpt: ''
