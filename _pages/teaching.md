@@ -7,7 +7,7 @@ title: "Cursos"
 <br>
 
 <br>
-<i class="fa fa-chart-bar fa-2x"></i>&nbsp;&nbsp; <a href="https://ipassos.github.io/introR2020/programa2020">Introdução ao R - 2020</a><br>
+<i class="fa fa-chart-bar fa-2x"></i>&nbsp;&nbsp; [Introdução ao R - 2020](/introR2020)
 <br>
 <br>
 
