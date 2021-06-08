@@ -16,8 +16,8 @@ redirect_from:
 ## Formação
 
 <i class="fa fa-graduation-cap"></i> Mestrado em Sociologia <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Universidade do Rio Grande do Sul <br>
-&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade do Rio Grande do Sul <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
 
 
 
