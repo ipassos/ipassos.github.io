@@ -21,7 +21,6 @@ redirect_from:
                 <i class="fa fa-graduation-cap"></i> Mestrado em Sociologia <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal do Rio Grande do Sul <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
-              
                 <i class="fa fa-graduation-cap"></i> Graduação em Ciências Sociais <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal do Rio Grande do Sul <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013-2016 <br>
@@ -30,7 +29,6 @@ redirect_from:
                 <i class="fa fa-graduation-cap"></i> Especialização em Direito Penal e Criminologia <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICPC <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021- <br>
-              
                 <i class="fa fa-graduation-cap"></i> Graduação em Estatística <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal do Rio Grande do Sul <br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017- <br>
