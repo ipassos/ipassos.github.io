@@ -1,10 +1,10 @@
 ---
+permalink: /introR2020/
 title: "\U0001F4CA Introdução ao R - 2020"
 summary: Curso ministrado para a primeira edição da Escola de Métodos e Ferramentas Tecnológicas para Pesquisa em Políticas Públicas -  Edição I
 authors:
     - Iara Passos
-date: 09-10-2020
-type: page
+date: 30-10-2019
 ---
 
 Material do curso de Introdução ao R ministrado em outubro de 2020 do evento Escola de Métodos e Ferramentas Tecnológicas para Pesquisa em Políticas Públicas -  Edição I organizado pelas/os discentes do curso de Pós-graduação em Políticas Públicas da UFRGS. 
