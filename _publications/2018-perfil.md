@@ -1,7 +1,7 @@
 ---
 title: "Perfil dos manifestantes pró e contra o impeachment em Porto Alegre e as TICs uma análise quantitativa"
 collection: publications
-permalink: /publication/2015-10-0-paper-title-number-3
+permalink: /publication/2018-perfil
 excerpt: ''
 date: 2018-09-28
 venue: 'Conversas & Controvérsias'
