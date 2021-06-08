@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Sou formada em Ciências Sociais pela UFRGS, onde pesquisei no TCC o trabalho dos policiais militares na gestão do Presídio Central de Porto Alegre, e no final do ano passado defendi o mestrado na Sociologia, também pela UFRGS, sobre ferramentas de avaliação de risco no sistema de justiça criminal dos EUA, na qual trabalhei com métodos mistos. Desde a graduação tenho focado meus estudos também em técnicas e ferramentas de pesquisa e em auxiliar graduandos/as e pós-graduandos/as, principalmente dos cursos de Ciências Humanas, nesse quesito. Já na graduação fui monitora da disciplina de Estatística Básica, que é ofertada para os cursos de Biblioteconomia, Ciências Sociais, Comunicação e outros. Em 2017 iniciei o bacharelado em Estatística. Em 2018, no primeiro ano do curso de mestrado, organizei a I Escola Discente de Métodos e Técnicas de Pesquisa do PPG Sociologia, onde também ministrei um curso de Introdução à linguagem R. Desde então venho ministrando cursos e realizando palestras sobre ferramentas e técnicas de pesquisa para graduandos/as, pós-graduandas/os e docentes de cursos como História, Políticas Públicas, Ciências Políticas, Sociologia, Desenvolvimento Rural e Ciências Jurídicas. Também participo dos grupos de pesquisa Grupo de Pesquisa em Violência e Cidadania (GPVC) e MidiaRS e das comunidades R-Ladies e AI Inclusive. Atualmente, trabalho como especialista em dados em um projeto do Cemaden sobre as defesas civis municipais. 
 
-<i class="fa fa-download fa-lg"></i>[Download CV]()
+<i class="fa fa-download fa-lg"></i>  &nbsp; [Download CV]()
 
 ## Formação
 
@@ -31,7 +31,6 @@ This is the front page of a website that is powered by the [academicpages templa
 * Metodologia qualitativa e quantitativa
 * Análise de redes sociais
 * Ciência de Dados
-
 
 
 
