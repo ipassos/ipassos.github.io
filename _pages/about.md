@@ -13,9 +13,9 @@ This is the front page of a website that is powered by the [academicpages templa
 Formação
 ======
 
-<i class="fa fa-graduation-cap"></i> Mestrado em Sociologia
-<i class="fa fa-building"></i> Universidade do Rio Grande do Sul
-<i class="fa fa-calendar"></i> 2018-2020
+<i class="fa fa-graduation-cap"></i> Mestrado em Sociologia <br>
+<i class="fa fa-building"></i> Universidade do Rio Grande do Sul <br>
+<i class="fa fa-calendar"></i> 2018-2020 <br>
 
 
 
