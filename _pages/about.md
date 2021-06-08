@@ -15,9 +15,29 @@ redirect_from:
 
 ## Formação
 
-<i class="fa fa-graduation-cap"></i> Mestrado em Sociologia <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade do Rio Grande do Sul <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
+ <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <i class="fa fa-graduation-cap"></i> Mestrado em Sociologia <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal do Rio Grande do Sul <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
+              
+                <i class="fa fa-graduation-cap"></i> Graduação em Ciências Sociais <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal do Rio Grande do Sul <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013-2016 <br>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <i class="fa fa-graduation-cap"></i> Especialização em Direito Penal e Criminologia <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICPC <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021- <br>
+              
+                <i class="fa fa-graduation-cap"></i> Graduação em Estatística <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidade Federal do Rio Grande do Sul <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017- <br>
+            </div>
+        </div>
+    </div>
+
 
 
 
