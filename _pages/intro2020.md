@@ -1,5 +1,5 @@
 ---
-permalink: /introR2020/
+permalink: /intro2020/
 title: "\U0001F4CA Introdução ao R - 2020"
 summary: Curso ministrado para a primeira edição da Escola de Métodos e Ferramentas Tecnológicas para Pesquisa em Políticas Públicas -  Edição I
 authors:
