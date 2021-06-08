@@ -15,11 +15,11 @@ Formação
 
 <i class="fa fa-graduation-cap fa-lg"></i>
 
-<i class="fa fa-building-lg"></i> 
+<i class="fa fa-building fa-lg"></i> 
 
-<i class="fa fa-calendar-lg"></i> 
+<i class="fa fa-calendar fa-lg"></i> 
 
-<i class="ai ai-lattes-lg"></i> 
+<i class="ai ai-lattes"></i> 
 
 
 
