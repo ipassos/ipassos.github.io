@@ -1,5 +1,5 @@
 ---
-title: 'Entrevista para o Blogo do IFCH/UFRGS'
+title: 'Entrevista para o Blog do IFCH/UFRGS'
 date: 2021-05-23
 permalink: /posts/2021/05/entrevista-ifch/
 tags:
