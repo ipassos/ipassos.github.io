@@ -14,15 +14,16 @@ Sou formada em Ciências Sociais pela UFRGS, onde pesquisei no TCC o trabalho do
 
 ## Formação
 
- <i class="fa fa-graduation-cap"></i> Mestrado em Sociologia (UFRGS)<br> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
- <i class="fa fa-graduation-cap"></i> Graduação em Ciências Sociais (UFRGS)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013-2016 <br>
  <i class="fa fa-graduation-cap"></i> Especialização em Direito Penal e Criminologia (ICPC)<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021- <br>
+ <i class="fa fa-graduation-cap"></i> Mestrado em Sociologia (UFRGS)<br> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2020 <br>
  <i class="fa fa-graduation-cap"></i> Graduação em Estatística (UFRGS)<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017- <br>
-         
+ <i class="fa fa-graduation-cap"></i> Graduação em Ciências Sociais (UFRGS)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013-2016 <br>
+
+        
 ## Interesses de pesquisa
 
 * Sociologia da Violência
