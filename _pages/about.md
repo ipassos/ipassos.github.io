@@ -13,13 +13,9 @@ This is the front page of a website that is powered by the [academicpages templa
 Formação
 ======
 
-<i class="fa fa-graduation-cap fa-lg"></i>
-
-<i class="fa fa-building fa-lg"></i> 
-
-<i class="fa fa-calendar fa-lg"></i> 
-
-<i class="ai ai-lattes"></i> 
+<i class="fa fa-graduation-cap"></i>
+<i class="fa fa-building"></i> 
+<i class="fa fa-calendar"></i> 
 
 
 
