@@ -8,7 +8,7 @@ title: "Cursos"
 
 <br>
 
-<i class="fa fa-chart-bar fa-2x"></i>&nbsp;&nbsp; [Introdução ao R - 2020](/introR2020)
+<i class="fa fa-chart-bar fa-2x"></i>&nbsp;&nbsp; [Introdução ao R - 2020](/intro2020)
 
 <br>
 <br>
