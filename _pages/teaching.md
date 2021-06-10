@@ -10,4 +10,4 @@ title: "Cursos"
 &nbsp;&nbsp;&nbsp;&nbsp;[Syllabus](/intro2020){: .btn--research}
 
 ### <i class="fa fa-chart-pie"></i> Introdução ao R - 2019
-&nbsp;&nbsp;&nbsp;&nbsp;[Syllabus](/intro2019){: .btn--research}
+&nbsp;&nbsp;&nbsp;&nbsp;[Syllabus](/introR2019){: .btn--research}
