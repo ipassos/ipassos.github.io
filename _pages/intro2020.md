@@ -11,7 +11,7 @@ Material do curso de Introdução ao R ministrado em outubro de 2020 do evento E
 
 ## Programa do curso 
 
-<span style="font-size:larger;">[html](https://ipassos.github.io/introR2020/programa2020) [pdf](https://github.com/ipassos/introR2020/raw/main/programa2020.pdf)</span>
+<span style="font-size:larger;">[html](https://ipassos.github.io/introR2020_rep/programa2020) [pdf](https://github.com/ipassos/introR2020/raw/main/programa2020.pdf)</span>
 
 
 ## Apostila
