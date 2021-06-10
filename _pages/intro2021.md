@@ -11,7 +11,7 @@ Material do curso de Introdução ao R ministrado em julho de 2021 para o grupo 
 
 ## Programa do curso 
 
-[html](){: .btn--research} [pdf](){: .btn--research}
+[html](https://ipassos.github.io/introR2021/){: .btn--research} [pdf](https://github.com/ipassos/introR2021/blob/main/programa2021.pdf){: .btn--research}
 
 
 ## Apostila
