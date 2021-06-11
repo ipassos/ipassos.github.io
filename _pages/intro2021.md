@@ -25,13 +25,13 @@ Material de apoio e complementar às aulas, atualizado durante o curso.
 Os scripts das aulas serão deixados aqui após a finalização da mesma.
 Instrução: abrir o script, clicar com o botao direito do mouse "Save as..." e salvar com extensão ".R" ou copiar tudo que está na página e colar em um script novo do R. 
 
-[Aula 1]()
+[Aula 1](https://raw.githubusercontent.com/ipassos/introR2021/main/aula1.R)
 
 Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](https://pastebin.com/) para compartilhar o código. 
 
 ## Listas
 
-[Lista 1]()
+[Lista 1](https://raw.githubusercontent.com/ipassos/introR2021/main/lista1.R)
 
 ## Material sugerido aulas
 
@@ -41,6 +41,9 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 
 <span style="font-size:larger;">[John Chambers recounts the history of S and R (video)](https://blog.revolutionanalytics.com/2014/01/john-chambers-recounts-the-history-of-s-and-r.html)</span> <br>
 
+<span style="font-size:larger;">[Matrix Multiplication in R](https://www.geeksforgeeks.org/matrix-multiplication-in-r/)</span> <br>
+
+<span style="font-size:larger;">[R Operators](https://www.datamentor.io/r-programming/operator/)</span> <br>
 
 
 ## Bibliografia Básica
@@ -54,6 +57,10 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 **[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)** by Hadley Wickham 
 
 **[Text Mining with R](https://www.tidytextmining.com/)** de Julia Silge e David Robinson <br>
+
+**[Ciência de Dados com R – Introdução](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/)** do IBPAD <br>
+
+**[R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf)** por Jakson Alves de Aquino <br>
 
 ## Sites Recomendados
 
