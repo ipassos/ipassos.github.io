@@ -26,12 +26,15 @@ Os scripts das aulas serão deixados aqui após a finalização da mesma.
 Instrução: abrir o script, clicar com o botao direito do mouse "Save as..." e salvar com extensão ".R" ou copiar tudo que está na página e colar em um script novo do R. 
 
 [Aula 1](https://raw.githubusercontent.com/ipassos/introR2021/main/aula1.R)
+[Aula 2](https://raw.githubusercontent.com/ipassos/introR2021/main/aula2.R)
 
 Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](https://pastebin.com/) para compartilhar o código. 
 
 ## Listas
 
 [Lista 1](https://raw.githubusercontent.com/ipassos/introR2021/main/lista1.R)
+[Lista 2](https://raw.githubusercontent.com/ipassos/introR2021/main/lista2.R)
+[Lista 3 - Tidyverse](https://raw.githubusercontent.com/ipassos/introR2021/main/lista3_tidyverse.R)
 
 ## Material sugerido aulas
 
@@ -45,6 +48,10 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 
 <span style="font-size:larger;">[R Operators](https://www.datamentor.io/r-programming/operator/)</span> <br>
 
+### Aula 2
+
+<span style="font-size:larger;">[Tidyverse](https://www.tidyverse.org/)</span> <br>
+<span style="font-size:larger;">[Dying Inside (banco utilizado na aula)](https://www.reuters.com/investigates/special-report/usa-jails-graphic/) </span> <br>
 
 ## Bibliografia Básica
 
