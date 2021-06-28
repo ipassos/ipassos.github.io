@@ -29,6 +29,8 @@ Instrução: abrir o script, clicar com o botao direito do mouse "Save as..." e 
 
 [Aula 2](https://raw.githubusercontent.com/ipassos/introR2021/main/aula2.R){: .btn--research}
 
+[Aula 3](https://github.com/ipassos/introR2021/blob/main/aula3.R){: .btn--research}
+
 Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](https://pastebin.com/) para compartilhar o código. 
 
 ## Listas
@@ -38,6 +40,8 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 [Lista 2](https://raw.githubusercontent.com/ipassos/introR2021/main/lista2.R){: .btn--research}
 
 [Lista 3 - Tidyverse](https://raw.githubusercontent.com/ipassos/introR2021/main/lista3_tidyverse.R){: .btn--research}
+
+[Lista 4](https://raw.githubusercontent.com/ipassos/introR2021/main/lista4.R){: .btn--research}
 
 ## Material sugerido aulas
 
