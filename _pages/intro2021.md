@@ -58,7 +58,46 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 ### Aula 2
 
 <span style="font-size:larger;">[Tidyverse](https://www.tidyverse.org/)</span> <br>
+
 <span style="font-size:larger;">[Dying Inside (banco utilizado na aula)](https://www.reuters.com/investigates/special-report/usa-jails-graphic/) </span> <br>
+
+<span style="font-size:larger;">[Tutorial on the R Apply Family](https://www.datacamp.com/community/tutorials/r-tutorial-apply-family) </span> <br>
+
+<span style="font-size:larger;">[Apply Family](http://uc-r.github.io/apply_family) </span> <br>
+
+### Aula 3
+
+<span style="font-size:larger;">[SSP - TRANSPARÊNCIA](http://www.ssp.sp.gov.br/transparenciassp/Default.aspx)</span> <br>
+
+<span style="font-size:larger;">[Join two tbls together](https://dplyr.tidyverse.org/reference/join.html)</span> <br>
+
+<span style="font-size:larger;">[Join com dplyr](https://rpubs.com/CristianaFreitas/311735)</span> <br>
+
+<span style="font-size:larger;">[geobr: Download Official Spatial Data Sets of Brazil](https://github.com/ipeaGIT/geobr)</span> <br>
+
+<span style="font-size:larger;">[Create Pivot Tables in R](https://cran.r-project.org/web/packages/pivottabler/vignettes/v00-vignettes.html)</span> <br>
+
+<span style="font-size:larger;">[dplyr and Pivot Tables](https://jules32.github.io/r-for-excel-users/pivot.html)</span> <br>
+
+## Aula 4
+
+<span style="font-size:larger;">[Add legends to plots in R software : the easiest way! ](http://www.sthda.com/english/wiki/add-legends-to-plots-in-r-software-the-easiest-way)</span> <br>
+
+<span style="font-size:larger;">[R Base Graphs](http://www.sthda.com/english/wiki/r-base-graphs)</span> <br>
+
+<span style="font-size:larger;">[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)</span> <br>
+
+<span style="font-size:larger;">[The R Graph Gallery](https://www.r-graph-gallery.com/index.html)</span> <br>
+
+<span style="font-size:larger;">[From Data to Viz](https://www.data-to-viz.com/)</span> <br>
+
+<span style="font-size:larger;">[Expressões regulares: introdução (RegEX](http://turing.com.br/material/regex/introducao.html)</span> <br>
+
+<span style="font-size:larger;">[How did Twitter react to the Coronavirus pandemic?](https://towardsdatascience.com/how-did-twitter-react-to-the-coronavirus-pandemic-2857592b449a))</span> <br>
+
+<span style="font-size:larger;">[Basic Text Analysis in R](http://www.sthda.com/english/wiki/r-base-graphs)</span> <br>
+
+<span style="font-size:larger;">[Case study: comparing Twitter archives](https://www.tidytextmining.com/twitter.html)</span> <br>
 
 ## Bibliografia Básica
 
@@ -75,6 +114,8 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 **[Ciência de Dados com R – Introdução](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/)** do IBPAD <br>
 
 **[R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf)** por Jakson Alves de Aquino <br>
+
+**[R for Excel users](https://jules32.github.io/r-for-excel-users/)** por Julie Lowndes & Allison Horst <br> 
 
 ## Sites Recomendados
 
