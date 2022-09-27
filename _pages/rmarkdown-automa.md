@@ -23,6 +23,19 @@ Instrução: abrir o script, clicar com o botao direito do mouse "Save as..." e 
 
 Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](https://pastebin.com/) para compartilhar o código. 
 
+## Pacotes
+
+install.packages("usethis")
+install.packages("rmarkdown")
+install.packages("tidyverse")
+install.packages("kableExtra")
+install.packages("knitr")
+install.packages("officedown")
+install.packages("officer")
+install.packages("patchwork")
+install.packages("flextable")
+install.packages("dados")
+install.packages("openxlsx")
 
 ## Material 
 
