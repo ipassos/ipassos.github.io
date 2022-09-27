@@ -9,9 +9,9 @@ date: 27-09-2022
 
 Material do curso de RMarkdown para Relatórios: automatização e controle de versões ministrado em setembro de 2022 na Semana Acadêmica da Matemática e Estatística da UFRGS.
 
-## Repositório
+## Material
 
-[ipassos/curso_rmarkdown_git](https://github.com/ipassos/curso_rmarkdown_git)
+[Template](https://github.com/ipassos/curso_rmarkdown_git/raw/main/template.docx)
 
 ## Scripts
 
