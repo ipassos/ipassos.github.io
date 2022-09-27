@@ -3,6 +3,13 @@ permalink: /teaching/
 title: "Cursos"
 ---
 
+### <i class="fa fa-file-code"></i> RMarkdown para Relatórios: automatização e controle de versões
+Curso ministrado na Semana Acadêmica da Estatística e Matemática - UFRGS <br>
+
+[Syllabus](//rmarkdown-automa){: .btn--research}
+
+
+
 ### <i class="fa fa-file-code"></i> Introdução ao R - 2021
 Curso ministrado para o grupo de pesquisa MIDIARS <br>
 
