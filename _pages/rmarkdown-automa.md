@@ -15,14 +15,11 @@ Material do curso de RMarkdown para Relatórios: automatização e controle de v
 
 ## Scripts
 
-Os scripts das aulas serão deixados aqui após a finalização da mesma.
+O script da aula será disponibilizado após a finalização da mesma.
 Instrução: abrir o script, clicar com o botao direito do mouse "Save as..." e salvar com extensão ".R" ou copiar tudo que está na página e colar em um script novo do R. 
 
-[](){: .btn--research}
+[Script aula](){: .btn--research}
 
-[](){: .btn--research}
-
-[](){: .btn--research}
 
 Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](https://pastebin.com/) para compartilhar o código. 
 
