@@ -13,12 +13,11 @@ Material do curso de RMarkdown para Relatórios: automatização e controle de v
 
 [Template](https://github.com/ipassos/curso_rmarkdown_git/raw/main/template.docx)
 
-## Scripts
+## Repositório
 
-O script da aula será disponibilizado após a finalização da mesma.
-Instrução: abrir o script, clicar com o botao direito do mouse "Save as..." e salvar com extensão ".R" ou copiar tudo que está na página e colar em um script novo do R. 
+Repositório feito em aula 
 
-[Script aula](){: .btn--research}
+[Aula](https://github.com/ipassos/aula){: .btn--research}
 
 
 Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](https://pastebin.com/) para compartilhar o código. 
@@ -26,15 +25,25 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 ## Pacotes
 
 install.packages("usethis")
+
 install.packages("rmarkdown")
+
 install.packages("tidyverse")
+
 install.packages("kableExtra")
+
 install.packages("knitr")
+
 install.packages("officedown")
+
 install.packages("officer")
+
 install.packages("patchwork")
+
 install.packages("flextable")
+
 install.packages("dados")
+
 install.packages("openxlsx")
 
 ## Material 
@@ -55,6 +64,7 @@ install.packages("openxlsx")
 <span style="font-size:larger;">[ggplot book](https://ggplot2-book.org/)</span> <br>
 
 <span style="font-size:larger;">[Data to Viz](https://www.data-to-viz.com/)</span> <br>
+
 
 &nbsp;
 
