@@ -9,6 +9,10 @@ date: 27-09-2022
 
 Material do curso de RMarkdown para Relatórios: automatização e controle de versões ministrado em setembro de 2022 na Semana Acadêmica da Matemática e Estatística da UFRGS.
 
+## Repositório
+
+[ipassos/curso_rmarkdown_git](https://github.com/ipassos/curso_rmarkdown_git)
+
 ## Scripts
 
 Os scripts das aulas serão deixados aqui após a finalização da mesma.
@@ -34,6 +38,13 @@ Durante a aula, caso precise de auxílio com o código, utilize o [Pastebin](htt
 
 <span style="font-size:larger;">[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)</span> <br>
 
+<span style="font-size:larger;">[Flextable](https://ardata-fr.github.io/flextable-book/)</span> <br>
+
+<span style="font-size:larger;">[Create Awesome HTML Table with knitr::kable and kableExtra]([https://ardata-fr.github.io/flextable-book/](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html))</span> <br>
+
+<span style="font-size:larger;">[ggplot book](https://ggplot2-book.org/)</span> <br>
+
+<span style="font-size:larger;">[Data to Viz](https://www.data-to-viz.com/)</span> <br>
 
 &nbsp;
 
