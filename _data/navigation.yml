@@ -1,23 +1,35 @@
-# main links links
+# Menu Principal (Português)
 main:
-  
-
- # - title: "Talks"
- #   url: /talks/    
-
   - title: "Cursos"
-    url: /teaching/    
+    url: /teaching/
   
   - title: "Publicações"
-    url: /publications/ 
-#  - title: "Portfolio"
- #   url: /portfolio/
-        
+    url: /publications/
+  
   - title: "Posts"
     url: /year-archive/
-    
+  
   - title: "CV"
     url: /cv/
+
+# Menu Principal (Inglês)
+main_en:
+  - title: "Teaching"
+    url: /teaching/       # (se quiser traduzir a pág depois, mude para /en/teaching/)
+  
+  - title: "Publications"
+    url: /publications/   # Lista de papers geralmente é universal
+  
+  - title: "Blog"
+    url: /year-archive/
+  
+  - title: "CV"
+    url: /en/cv/          # <--- link que vai para o CV em Inglês
+
+    
+#  - title: "Portfolio"
+ #   url: /portfolio/
+
     
 #  - title: "Guide"
 #    url: /markdown/
