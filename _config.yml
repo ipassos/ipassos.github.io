@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Iara Passos"
   avatar           : "avatar.jpeg"
-  bio              : "Data Enginner/Scientist & Sociology"
+  bio              : "Data Enginner/Scientist & Sociologist"
   location         : "Porto Alegre/Brasil"
   employer         :
   pubmed           : 
@@ -117,16 +117,8 @@ author:
   wikipedia        :
   academia         : "https://ufrgs.academia.edu/IaraPassos"
   lattes           : "http://lattes.cnpq.br/1548598214531431"
-  links:
-    # ... seus outros links ...
-
-    - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"  # Agora este código vai funcionar!
-      url: "https://bsky.app/profile/iara_mouse.bsky.social"
-      
-    - label: "Mastodon"
-      icon: "fa-brands fa-mastodon"
-      url: "https://mastodon.social/@iara_mouse"
+  bluesky          : "https://bsky.app/profile/iara_mouse.bsky.social"
+  mastodon         : "https://mastodon.social/@iara_mouse"
 
 
 # Reading Files
