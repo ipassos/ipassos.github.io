@@ -24,113 +24,113 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
 
 ## Experiência Profissional
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>Jan 2026 - Atual</strong></div>
   <div>
     <strong>Juntos Somos Mais</strong><br>
     <em>Senior Data Engineer</em><br>
-    <small>Pipelines escaláveis em Databricks/PySpark e otimização de custos de cloud.</small>
+    <div style="font-size: 0.9em;">Pipelines escaláveis em Databricks/PySpark e otimização de custos de cloud.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>Out 2025 - Atual</strong></div>
   <div>
     <strong>Meu Corre</strong> (Freelance)<br>
     <em>Statistical Data Analyst</em><br>
-    <small>Análise estatística da Gig Economy: clusterização de perfis e testes de hipótese econômicos.</small>
+    <div style="font-size: 0.9em;">Análise estatística da Gig Economy: clusterização de perfis e testes de hipótese econômicos.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>Jan 2025 - Atual</strong></div>
   <div>
     <strong>Lab. Cronobiologia - UFRGS</strong><br>
     <em>R Shiny Developer</em><br>
-    <small>Desenvolvimento full-stack de app web para análise automatizada de padrões de sono.</small>
+    <div style="font-size: 0.9em;">Desenvolvimento full-stack de app web para análise automatizada de padrões de sono.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2025 - 2026</strong></div>
   <div>
     <strong>Juntos Somos Mais</strong><br>
     <em>Data Analyst (BI)</em><br>
-    <small>NLP (LLMs) para classificação de dados, Georreferenciamento e ETL.</small>
+    <div style="font-size: 0.9em;">NLP (LLMs) para classificação de dados, Georreferenciamento e ETL.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2023 - 2025</strong></div>
   <div>
     <strong>PUCRS</strong><br>
     <em>Data Analyst Pleno</em><br>
-    <small>Automação com Power BI/Azure e análise de sentimentos com NLP.</small>
+    <div style="font-size: 0.9em;">Automação com Power BI/Azure e análise de sentimentos com NLP.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2021 - 2023</strong></div>
   <div>
     <strong>Cappra Institute</strong><br>
     <em>Research Lead & Data Consultant</em><br>
-    <small>Liderança de pesquisa em cultura analítica e Data Literacy para grandes empresas.</small>
+    <div style="font-size: 0.9em;">Liderança de pesquisa em cultura analítica e Data Literacy para grandes empresas.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2021 - 2023</strong></div>
   <div>
     <strong>Terre des hommes / CNJ</strong><br>
     <em>Quantitative Researcher</em><br>
-    <small>Estatística aplicada a dados prisionais e direitos humanos (R/Tidyverse).</small>
+    <div style="font-size: 0.9em;">Estatística aplicada a dados prisionais e direitos humanos (R/Tidyverse).</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2021</strong></div>
   <div>
     <strong>Cemaden / PNUD</strong><br>
     <em>Data Specialist</em><br>
-    <small>Dashboards em R Shiny para defesa civil e gestão de desastres.</small>
+    <div style="font-size: 0.9em;">Dashboards em R Shiny para defesa civil e gestão de desastres.</div>
   </div>
 </div>
 
 ## Tecnologia Cívica e Comunidades
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2025 - Atual</strong></div>
   <div>
     <strong>Olha o Rapa / UFABC</strong><br>
     <em>Pesquisadora Voluntária</em><br>
-    <small>Dados para proteção de ambulantes contra violência policial e abusos.</small>
+    <div style="font-size: 0.9em;">Dados para proteção de ambulantes contra violência policial e abusos.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2023 - Atual</strong></div>
   <div>
     <strong>Coletivo Farpa</strong><br>
     <em>Colaboradora de Dados</em><br>
-    <small>Tecnologia focada em transparência pública e dados abertos.</small>
+    <div style="font-size: 0.9em;">Tecnologia focada em transparência pública e dados abertos.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2017 - Atual</strong></div>
   <div>
     <strong>R-Ladies Porto Alegre</strong><br>
     <em>Co-Founder & Organizer</em><br>
-    <small>Promoção da diversidade de gênero na Ciência de Dados.</small>
+    <div style="font-size: 0.9em;">Promoção da diversidade de gênero na Ciência de Dados.</div>
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 20px;">
   <div><strong>2025 - Atual</strong></div>
   <div>
     <strong>AI Inclusive</strong><br>
     <em>Organizer</em><br>
-    <small>Iniciativa global para representatividade de minorias na IA.</small>
+    <div style="font-size: 0.9em;">Iniciativa global para representatividade de minorias na IA.</div>
   </div>
 </div>
 
