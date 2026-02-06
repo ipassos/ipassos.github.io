@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+lang: pt
 author_profile: true
 redirect_from:
   - /resume
@@ -9,71 +10,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação Acadêmica
 ======
-* **B.S. in Statistics**, Universidade Federal do Rio Grande do Sul (UFRGS), 2017 - 2026 (Expected)
-* **Specialization in Criminology**, Instituto de Criminologia e Política Criminal (ICPC), 2021
-* **M.S. in Sociology**, Universidade Federal do Rio Grande do Sul (UFRGS), 2018 - 2020
-  * *Thesis: Racial bias in risk assessment algorithms in the US criminal justice system.*
-* **B.A. in Social Sciences**, Universidade Federal do Rio Grande do Sul (UFRGS), 2013 - 2016
+* **Graduação em Estatística**, Universidade Federal do Rio Grande do Sul (UFRGS), 2017 - 2026 (Previsão)
+* **Especialização em Criminologia**, Instituto de Criminologia e Política Criminal (ICPC), 2021
+* **Mestrado em Sociologia**, Universidade Federal do Rio Grande do Sul (UFRGS), 2018 - 2020
+  * *Dissertação: Vieses raciais em algoritmos de avaliação de risco no sistema de justiça criminal dos EUA.*
+* **Graduação em Ciências Sociais**, Universidade Federal do Rio Grande do Sul (UFRGS), 2013 - 2016
 
-Work Experience
+Experiência Profissional
 ======
-**Juntos Somos Mais** | *Jan 2026 - Present*
-<br>**Senior Data Engineer**
-* Leading the data engineering front for analytics infrastructure.
-* Developing scalable ETL pipelines using **Databricks** and **PySpark** in a Cloud Environment (Azure).
-* Optimizing processes for performance improvement and cloud cost reduction.
-* Implementing Data Quality frameworks for ML models.
+**Juntos Somos Mais** | *Jan 2026 - Atual*
+<br>**Engenheira de Dados Sênior**
+* Liderança técnica da frente de engenharia de dados e infraestrutura analítica.
+* Desenvolvimento de pipelines ETL escaláveis utilizando **Databricks** e **PySpark** em ambiente Cloud (Azure).
+* Otimização de processos para melhoria de performance e redução de custos de nuvem.
+* Implementação de frameworks de Qualidade de Dados (Data Quality) para modelos de ML.
 
 **Juntos Somos Mais** | *Mar 2025 - Jan 2026*
-<br>**Data Analyst (Business Intelligence)**
-* Led data intelligence for a strategic B2B project.
-* Implemented **NLP (LLMs)** to classify and standardize unstructured product data at scale.
-* Developed real-time data pipelines and geospatial dashboards (benchmarking).
+<br>**Analista de Dados (Business Intelligence)**
+* Liderança de inteligência de dados em projeto estratégico B2B.
+* Implementação de **NLP (LLMs)** para classificação e padronização de dados de produtos não estruturados em escala.
+* Desenvolvimento de pipelines de dados em tempo real e dashboards geoespaciais (benchmarking).
 
-**Meu Corre** (Freelance) | *Oct 2025 - Present*
-<br>**Statistical Data Analyst**
-* Advanced statistical analysis for a Gig Economy management platform.
-* Conducted cluster analysis for user segmentation and hypothesis testing on income patterns.
+**Meu Corre** (Freelance) | *Out 2025 - Atual*
+<br>**Analista de Dados Estatísticos**
+* Análise estatística avançada para plataforma de gestão da Gig Economy.
+* Realização de análise de cluster para segmentação de usuários e testes de hipótese sobre padrões de renda.
 
-**Chronobiology Lab - UFRGS** (Freelance) | *Jan 2025 - Present*
-<br>**R Shiny Developer**
-* Full-stack development of a web application (**R Shiny**) to automate actigraphy analysis (sleep patterns), replacing manual research workflows.
+**Lab. de Cronobiologia - UFRGS** (Autônomo) | *Jan 2025 - Atual*
+<br>**Desenvolvedora R Shiny**
+* Desenvolvimento full-stack de aplicação web (**R Shiny**) para automatizar a análise de actigrafia (padrões de sono), substituindo fluxos de pesquisa manuais.
 
-**PUCRS** | *Feb 2023 - Mar 2025*
-<br>**Data Analyst Pleno**
-* Automated institutional reporting using **Power BI** and **Azure Data Lake**.
-* Applied NLP models (TensorFlow/GPT) for sentiment analysis in large-scale surveys.
-* Supported strategic decision-making with statistical analysis of public and internal datasets.
+**PUCRS** | *Fev 2023 - Mar 2025*
+<br>**Analista de Dados Pleno**
+* Automação de relatórios institucionais utilizando **Power BI** e **Azure Data Lake**.
+* Aplicação de modelos de NLP (TensorFlow/GPT) para análise de sentimento em pesquisas de larga escala.
+* Suporte à decisão estratégica com análise estatística de bases públicas e internas.
 
-**Cappra Institute** | *Jun 2021 - Dec 2023*
-<br>**Research Lead & Data Consultant**
-* Led research squads focused on analytical culture and Data Literacy for large enterprises.
-* Developed methodologies for assessing analytical maturity.
+**Cappra Institute** | *Jun 2021 - Dez 2023*
+<br>**Líder de Pesquisa & Consultora de Dados**
+* Liderança de squads de pesquisa focados em cultura analítica e Alfabetização de Dados (Data Literacy) para grandes empresas.
+* Desenvolvimento de metodologias para avaliação de maturidade analítica.
 
-**Terre des hommes / CNJ** | *Aug 2021 - Feb 2023*
-<br>**Quantitative Researcher**
-* Project: "National Prison System Census" (partnership with UNDP/CNJ).
-* Handled sensitive data processing and statistical analysis regarding human rights violations.
-* Used R (Tidyverse) for complex data cleaning and evidence-based reporting.
+**Terre des hommes / CNJ** | *Ago 2021 - Fev 2023*
+<br>**Pesquisadora Quantitativa**
+* Projeto: "Censo do Sistema Prisional" (parceria com PNUD/CNJ).
+* Tratamento de dados sensíveis e análise estatística sobre violações de direitos humanos.
+* Uso de R (Tidyverse) para limpeza de dados complexos e relatórios baseados em evidências.
 
-**Cemaden / UNDP** | *Jan 2021 - Dec 2021*
-<br>**Data Specialist**
-* Developed R Shiny dashboards to visualize the capacity of municipal civil defense agencies across Brazil.
-* Conducted statistical and qualitative diagnosis of disaster management governance.
+**Cemaden / PNUD** | *Jan 2021 - Dez 2021*
+<br>**Especialista em Dados**
+* Desenvolvimento de dashboards em R Shiny para visualizar a capacidade das defesas civis municipais em todo o Brasil.
+* Realização de diagnóstico estatístico e qualitativo da governança de gestão de desastres.
 
-Civic Technology & Volunteering
+Tecnologia Cívica e Voluntariado
 ======
-* **Olha o Rapa / UFABC** (2025 - Present): Volunteer Researcher. Structuring data to protect street vendors from police violence and abuse of authority.
-* **Coletivo Farpa** (2023 - Present): Data Collaborator. Working on civic tech projects focused on public transparency and open data.
-* **R-Ladies Porto Alegre** (2017 - Present): **Co-Founder & Organizer**. Leading workshops and mentorships to promote gender diversity in the R community.
-* **AI Inclusive** (2025 - Present): **Organizer**. Global initiative to increase representation of minority groups in Artificial Intelligence.
+* **Olha o Rapa / UFABC** (2025 - Atual): Pesquisadora Voluntária. Estruturação de dados para proteger vendedores ambulantes contra violência policial e abuso de autoridade.
+* **Coletivo Farpa** (2023 - Atual): Colaboradora de Dados. Atuação em projetos de tecnologia cívica focados em transparência pública e dados abertos.
+* **R-Ladies Porto Alegre** (2017 - Atual): **Co-Fundadora & Organizadora**. Liderança de workshops e mentorias para promover a diversidade de gênero na comunidade R.
+* **AI Inclusive** (2025 - Atual): **Organizadora**. Iniciativa global para aumentar a representatividade de grupos minoritários na Inteligência Artificial.
 
-Skills
+Competências
 ======
-* **Languages:** Python, R, SQL
-* **Data Engineering:** PySpark, Databricks, Azure, Airflow, ETL Pipelines
-* **Data Science:** NLP (Spacy, Transformers), Web Scraping, Statistical Modeling, Hypothesis Testing
-* **Tools:** Git, Docker, Linux, Power BI, Tableau
-* **Languages:** Portuguese (Native), English (Fluent), Spanish (Advanced)
+* **Linguagens:** Python, R, SQL
+* **Engenharia de Dados:** PySpark, Databricks, Azure, Airflow, Pipelines ETL
+* **Data Science:** NLP (Spacy, Transformers), Web Scraping, Modelagem Estatística, Testes de Hipótese
+* **Ferramentas:** Git, Docker, Linux, Power BI, Tableau
+* **Idiomas:** Português (Nativo), Inglês (Fluente), Espanhol (Avançado)
