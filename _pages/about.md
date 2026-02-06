@@ -22,16 +22,32 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
 
 <i class="fa fa-download fa-lg"></i>  &nbsp; [Download CV Completo](https://raw.githubusercontent.com/ipassos/ipassos.github.io/master/files/cv_IaraPassos_pt_completo_jun2021.pdf)
 
-## Experiência profissional 
-
 ## Experiência Profissional
 
 <div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
-  <div><strong>2026 - Atual</strong></div>
+  <div><strong>Jan 2026 - Atual</strong></div>
   <div>
     <strong>Juntos Somos Mais</strong><br>
     <em>Senior Data Engineer</em><br>
-    <small>Foco: Pipelines escaláveis, Databricks, PySpark e Cloud Optimization.</small>
+    <small>Pipelines escaláveis em Databricks/PySpark e otimização de custos de cloud.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>Out 2025 - Atual</strong></div>
+  <div>
+    <strong>Meu Corre</strong> (Freelance)<br>
+    <em>Statistical Data Analyst</em><br>
+    <small>Análise estatística da Gig Economy: clusterização de perfis e testes de hipótese econômicos.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>Jan 2025 - Atual</strong></div>
+  <div>
+    <strong>Lab. Cronobiologia - UFRGS</strong><br>
+    <em>R Shiny Developer</em><br>
+    <small>Desenvolvimento full-stack de app web para análise automatizada de padrões de sono.</small>
   </div>
 </div>
 
@@ -40,7 +56,7 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
   <div>
     <strong>Juntos Somos Mais</strong><br>
     <em>Data Analyst (BI)</em><br>
-    <small>Foco: NLP (LLMs) para classificação de dados, Georreferenciamento e ETL.</small>
+    <small>NLP (LLMs) para classificação de dados, Georreferenciamento e ETL.</small>
   </div>
 </div>
 
@@ -49,7 +65,16 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
   <div>
     <strong>PUCRS</strong><br>
     <em>Data Analyst Pleno</em><br>
-    <small>Foco: Automação com Power BI/Azure e análise de sentimentos com NLP.</small>
+    <small>Automação com Power BI/Azure e análise de sentimentos com NLP.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2021 - 2023</strong></div>
+  <div>
+    <strong>Cappra Institute</strong><br>
+    <em>Research Lead & Data Consultant</em><br>
+    <small>Liderança de pesquisa em cultura analítica e Data Literacy para grandes empresas.</small>
   </div>
 </div>
 
@@ -58,7 +83,7 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
   <div>
     <strong>Terre des hommes / CNJ</strong><br>
     <em>Quantitative Researcher</em><br>
-    <small>Foco: Estatística aplicada a dados prisionais e direitos humanos (R/Tidyverse).</small>
+    <small>Estatística aplicada a dados prisionais e direitos humanos (R/Tidyverse).</small>
   </div>
 </div>
 
@@ -67,7 +92,45 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
   <div>
     <strong>Cemaden / PNUD</strong><br>
     <em>Data Specialist</em><br>
-    <small>Foco: Dashboards em R Shiny para defesa civil e gestão de desastres.</small>
+    <small>Dashboards em R Shiny para defesa civil e gestão de desastres.</small>
+  </div>
+</div>
+
+## Tecnologia Cívica e Comunidades
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2025 - Atual</strong></div>
+  <div>
+    <strong>Olha o Rapa / UFABC</strong><br>
+    <em>Pesquisadora Voluntária</em><br>
+    <small>Dados para proteção de ambulantes contra violência policial e abusos.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2023 - Atual</strong></div>
+  <div>
+    <strong>Coletivo Farpa</strong><br>
+    <em>Colaboradora de Dados</em><br>
+    <small>Tecnologia focada em transparência pública e dados abertos.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2017 - Atual</strong></div>
+  <div>
+    <strong>R-Ladies Porto Alegre</strong><br>
+    <em>Co-Founder & Organizer</em><br>
+    <small>Promoção da diversidade de gênero na Ciência de Dados.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2025 - Atual</strong></div>
+  <div>
+    <strong>AI Inclusive</strong><br>
+    <em>Organizer</em><br>
+    <small>Iniciativa global para representatividade de minorias na IA.</small>
   </div>
 </div>
 
@@ -90,26 +153,6 @@ Linguagens: Python, R, SQL
 Engenharia de Dados: PySpark, Databricks, Azure
 Data Science: NLP (spaCy, Transformers), Web Scraping, Análise Multivariada
 Ferramentas: Git, Docker, Linux
-
-## Comunidades e Liderança
-
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
-  <div><strong>2017 - Atual</strong></div>
-  <div>
-    <strong>R-Ladies Porto Alegre</strong><br>
-    <em>Co-Founder & Organizer</em><br>
-    Organização de workshops e mentorias para promover a diversidade de gênero na Ciência de Dados.
-  </div>
-</div>
-
-<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
-  <div><strong>2020 - Atual</strong></div>
-  <div>
-    <strong>AI Inclusive</strong><br>
-    <em>Organizer</em><br>
-    Iniciativa global para aumentar a representatividade de minorias na Inteligência Artificial.
-  </div>
-</div>
 
 ## Interesses de pesquisa
 
