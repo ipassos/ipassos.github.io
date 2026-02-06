@@ -24,33 +24,52 @@ Sou apaixonada por comunidades de tecnologia, atuando como co-fundadora do R-Lad
 
 ## Experiência profissional 
 
-<i class="fa fa-briefcase"></i> Juntos Somos Mais ° 2026 - Atual <br>
-_Data Engineer_ <br>
-Engenharia de dados e infraestrutura analítica. Desenvolvimento de pipelines escaláveis (ETL) em <b>Databricks/PySpark</b>, otimização de custos de cloud e garantia de Data Quality para modelos de Machine Learning.<br>
-<i class="fa fa-briefcase"></i> Juntos Somos Mais ° 2025 - 2026 <br>
-_Data Analyst (Business Intelligence)_ <br>
-Liderança técnica de inteligência de dados em projeto B2B estratégico. Implementação de modelos de <b>NLP (LLMs)</b> para classificação de dados não estruturados em escala, georreferenciamento e pipelines de dados em tempo real.<br>
-<i class="fa fa-briefcase"></i> Meu Corre (Freelance) ° 2025 - Atual <br>
-_Statistical Data Analyst_ <br>
-Análise estatística avançada para a Gig Economy. Clusterização de perfis de entregadores, testes de hipótese econômicos e rotinas de Data Quality em R.<br>
-<i class="fa fa-briefcase"></i> Laboratório de Cronobiologia e Sono - UFRGS (Autônomo) ° 2025 - Atual <br>
-_R Shiny Developer_ <br>
-Desenvolvimento full-stack de aplicação web em <b>R Shiny</b> para análise automatizada de actigrafia (padrões de sono), substituindo processos manuais de pesquisa.<br>
-<i class="fa fa-briefcase"></i> PUCRS ° 2023 - 2025 <br>
-_Data Analyst Pleno_ <br>
-Automação de relatórios institucionais com Power BI e Azure. Aplicação de modelos de NLP (TensorFlow/GPT) para análise de sentimentos em pesquisas de larga escala.<br>
-<i class="fa fa-briefcase"></i> R-Ladies Porto Alegre ° 2017 - Atual <br>
-_Co-Founder & Organizer_ <br>
-Fundadora do capítulo local de uma das maiores comunidades globais de diversidade em tecnologia. Organização de workshops, mentoria de carreira e ensino de R e Ciência de Dados para grupos sub-representados.<br>
-<i class="fa fa-briefcase"></i> Cappra Institute ° 2021 - 2023 <br>
-_Data Consultant & Research Lead_ <br>
-Consultoria de estratégia de dados e liderança de squads de pesquisa sobre cultura analítica e Data Literacy para grandes empresas.<br>
-<i class="fa fa-briefcase"></i> Terre des hommes / CNJ ° 2021 - 2023 <br>
-_Quantitative Researcher_ <br>
-Pesquisadora no "Censo do Sistema Prisional" (CNJ/PNUD). Tratamento e análise estatística (R) de bases de dados sensíveis sobre direitos humanos e população carcerária.<br>
-<i class="fa fa-briefcase"></i> Cemaden / PNUD ° 2021 <br>
-_Data Specialist_ <br>
-Desenvolvimento de dashboards (R Shiny) e análise de dados para diagnóstico nacional das capacidades das defesas civis municipais frente a desastres naturais.<br>
+## Experiência Profissional
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2026 - Atual</strong></div>
+  <div>
+    <strong>Juntos Somos Mais</strong><br>
+    <em>Senior Data Engineer</em><br>
+    <small>Foco: Pipelines escaláveis, Databricks, PySpark e Cloud Optimization.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2025 - 2026</strong></div>
+  <div>
+    <strong>Juntos Somos Mais</strong><br>
+    <em>Data Analyst (BI)</em><br>
+    <small>Foco: NLP (LLMs) para classificação de dados, Georreferenciamento e ETL.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2023 - 2025</strong></div>
+  <div>
+    <strong>PUCRS</strong><br>
+    <em>Data Analyst Pleno</em><br>
+    <small>Foco: Automação com Power BI/Azure e análise de sentimentos com NLP.</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2021 - 2023</strong></div>
+  <div>
+    <strong>Terre des hommes / CNJ</strong><br>
+    <em>Quantitative Researcher</em><br>
+    <small>Foco: Estatística aplicada a dados prisionais e direitos humanos (R/Tidyverse).</small>
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2021</strong></div>
+  <div>
+    <strong>Cemaden / PNUD</strong><br>
+    <em>Data Specialist</em><br>
+    <small>Foco: Dashboards em R Shiny para defesa civil e gestão de desastres.</small>
+  </div>
+</div>
 
 ## Formação
 
@@ -71,7 +90,27 @@ Linguagens: Python, R, SQL
 Engenharia de Dados: PySpark, Databricks, Azure
 Data Science: NLP (spaCy, Transformers), Web Scraping, Análise Multivariada
 Ferramentas: Git, Docker, Linux
-        
+
+## Comunidades e Liderança
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2017 - Atual</strong></div>
+  <div>
+    <strong>R-Ladies Porto Alegre</strong><br>
+    <em>Co-Founder & Organizer</em><br>
+    Organização de workshops e mentorias para promover a diversidade de gênero na Ciência de Dados.
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 30% 70%; gap: 10px; margin-bottom: 15px;">
+  <div><strong>2020 - Atual</strong></div>
+  <div>
+    <strong>AI Inclusive</strong><br>
+    <em>Organizer</em><br>
+    Iniciativa global para aumentar a representatividade de minorias na Inteligência Artificial.
+  </div>
+</div>
+
 ## Interesses de pesquisa
 
 * Sociologia da Violência
