@@ -21,11 +21,10 @@ Formação Acadêmica
 Experiência Profissional
 ======
 **Juntos Somos Mais** | *Jan 2026 - Atual*
-<br>**Engenheira de Dados Sênior**
-* Liderança técnica da frente de engenharia de dados e infraestrutura analítica.
+<br>**Engenheira de Dados**
 * Desenvolvimento de pipelines ETL escaláveis utilizando **Databricks** e **PySpark** em ambiente Cloud (Azure).
 * Otimização de processos para melhoria de performance e redução de custos de nuvem.
-* Implementação de frameworks de Qualidade de Dados (Data Quality) para modelos de ML.
+* Implementação de frameworks de Qualidade de Dados (Data Quality) para modelagem de dados.
 
 **Juntos Somos Mais** | *Mar 2025 - Jan 2026*
 <br>**Analista de Dados (Business Intelligence)**
@@ -35,6 +34,7 @@ Experiência Profissional
 
 **Meu Corre** (Freelance) | *Out 2025 - Atual*
 <br>**Analista de Dados Estatísticos**
+* Implementação de rotinas de Data Quality e testes de consistência.
 * Análise estatística avançada para plataforma de gestão da Gig Economy.
 * Realização de análise de cluster para segmentação de usuários e testes de hipótese sobre padrões de renda.
 
@@ -64,17 +64,23 @@ Experiência Profissional
 * Desenvolvimento de dashboards em R Shiny para visualizar a capacidade das defesas civis municipais em todo o Brasil.
 * Realização de diagnóstico estatístico e qualitativo da governança de gestão de desastres.
 
+**Secretaria de Segurança Pública do RS** | *Mar 2020 - Out 2020*
+<br>**Analista de Dados de Segurança Pública (Estágio)**
+* Tratamento e análise estatística de bases de dados de homicídios e indicadores de criminalidade no RS.
+* Criação de dashboards para monitoramento de índices de violência.
+
 Tecnologia Cívica e Voluntariado
 ======
 * **Olha o Rapa / UFABC** (2025 - Atual): Pesquisadora Voluntária. Estruturação de dados para proteger vendedores ambulantes contra violência policial e abuso de autoridade.
 * **Coletivo Farpa** (2023 - Atual): Colaboradora de Dados. Atuação em projetos de tecnologia cívica focados em transparência pública e dados abertos.
 * **R-Ladies Porto Alegre** (2017 - Atual): **Co-Fundadora & Organizadora**. Liderança de workshops e mentorias para promover a diversidade de gênero na comunidade R.
-* **AI Inclusive** (2025 - Atual): **Organizadora**. Iniciativa global para aumentar a representatividade de grupos minoritários na Inteligência Artificial.
-
+* **AI Inclusive** (2021 - Atual): **Organizadora**. Iniciativa global para aumentar a representatividade de grupos minoritários na Inteligência Artificial.
+* **AIRES PUCRS** (2024 - Atual): Pesquisadora. Participação no grupo de pesquisa em Inteligência Artificial Responsável e Ética.
+  
 Competências
 ======
-* **Linguagens:** Python, R, SQL
-* **Engenharia de Dados:** PySpark, Databricks, Azure, Airflow, Pipelines ETL
+* **Linguagens:** Python, R, SQL, JavaScript
+* **Engenharia de Dados:** PySpark, Databricks, Azure, Pipelines ETL
 * **Data Science:** NLP (Spacy, Transformers), Web Scraping, Modelagem Estatística, Testes de Hipótese
 * **Ferramentas:** Git, Docker, Linux, Power BI, Tableau
 * **Idiomas:** Português (Nativo), Inglês (Fluente), Espanhol (Avançado)
