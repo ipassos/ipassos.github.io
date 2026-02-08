@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: "About Me"
+title: "Iara Passos"
 lang: en       
 author_profile: true
 redirect_from: 
